@@ -1,6 +1,7 @@
 apiVersion: 1
 providers:
-- name: JMeter Dashboard
+- name: 'JMeter Dashboard'
+  orgId: 1
   folder: ''
   type: file
   disableDeletion: false
